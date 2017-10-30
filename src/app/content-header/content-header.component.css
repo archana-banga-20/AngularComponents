@@ -1,0 +1,18 @@
+.meetme{
+  color: aliceblue;
+  width: 298px;
+  height: 55px;
+  font-size: 36px;
+}
+
+
+.buttons{
+  background-color:#362549;
+  color: aliceblue;
+  border-radius: 6px;
+  border: solid #362549;
+  display: inline-block;
+  width: 165px;
+  font-size: 20px;
+  height: 70px;
+}

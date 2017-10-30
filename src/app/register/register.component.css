@@ -1,0 +1,11 @@
+.form-inputs{
+  font-size: 18px;padding: 3px;color: dimgrey;
+}
+
+.container-div{
+  background-color: #6D4991;padding: 13px 10px 10px 10px ;height: 320px;opacity: 0.9;
+}
+
+.facebook-button{
+  background-color: #3b5998; color: white;font-size: 20px;
+}
